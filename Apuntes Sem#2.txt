@@ -1,0 +1,75 @@
+Apuntes Sem #2
+
+Git init: 
+
+	Crea un nuevo repositorio es el primer comando que se pone para iniciar git
+	
+	Es un comando que se utiliza una sola vez durante la configuración inicial de un repositorio nuevo (https://www.atlassian.com/)
+
+Git config:
+
+	Sirve para definir las configuraciones de nuestro proyecto.
+
+	Es una función útil que sirve para definir valores de configuración de Git a nivel de un proyecto global o local. 
+	Estos niveles de configuración se corresponden con archivos de texto . gitconfig . Al ejecutar git config , 
+	se modificará un archivo de texto de configuración.(https://www.atlassian.com/)
+
+Git add:
+
+	Sirve para añadir documentos a nuestro archivo en github.
+
+	Añade contenido del directorio de trabajo al área de ensayo (staging area o 'index') para la próxima confirmación. (https://git-scm.com/)
+
+Git commit:
+
+	Identifica los cambios que se han hecho en los trabajos.
+
+	Captura una instantánea de los cambios preparados en ese momento del proyecto(https://www.atlassian.com/)
+
+Git push:
+	
+	Empuja los documentos seleccionados y los sube a la nube.
+
+	Se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la remota no tiene, y luego subir (push) la diferencia al otro repositorio(https://git-scm.com/)
+
+Git pull:
+
+	Jala los documentos en la nube y los extrae.
+
+	Se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido. (https://www.atlassian.com/)
+
+Git Branch:
+
+	Nos deja crar nuevas ramas.
+
+	Permite crear una rama nueva (https://www.atlassian.com/)
+
+Git checkout:
+
+	Nos permite cambiar entre las ramas que poseemos
+
+	Te permite desplazarte entre las ramas creadas por git branch . Al extraer una rama, se actualizan los archivos en el directorio de trabajo para reflejar la versión 
+	almacenada en esa rama y se indica a Git que registre todas las confirmaciones nuevas en dicha rama. (https://www.atlassian.com/)
+
+Github:
+
+	Es una plataforma donde se pude subir distintos codigos y utilizarlo en cualquier momento que lo necesites y los demas pueden ver tus codigos.
+
+	GitHub es una plataforma de desarrollo completa para compilar, escalar y ofrecer software seguro. (https://docs.github.com/)
+
+Github Pages:
+
+	Es una pagina donde se guardan distintos tipos de documentos y tambien se los puede ejecutar.
+
+	GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub,
+	opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web. (https://docs.github.com/)
+
+Wiki:
+
+	Pagina que se puede editar directamente en el navegador.
+
+	El término wiki(palabra que proviene del hawaiano wiki, 'rápido') alude al nombre que recibe una comunidad virtual, cuyas páginas son editadas 
+	directamente desde el navegador, donde los mismos usuarios crean, modifican, corrigen o eliminan contenidos que, habitualmente, son compartidos por cualquier otro usuario. (https://es.wikipedia.org/)
+
+
+
