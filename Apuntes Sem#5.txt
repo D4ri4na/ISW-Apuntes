@@ -1,5 +1,31 @@
 Apuntes Semana #5
 
+-Metodologia de proyecto
+
+Gestion de proyectos:
+
+	Es una serie de pasos que se usan para la ejecución de un proyecto
+
+	Serie de perspectivas teóricas y prácticas que se aplican para administrar, diseñar y orientar los esfuerzos dentro de un proyecto corporativo, civil, tecnológico y de cualquier índole de principio a fin 		(https://rockcontent.com/)
+
+Control de versiones:
+
+	Conjunto de proyectos que se utilizan para controlar el proceso del proyecto, ya sea el tiempo, costo o pasos a seguir.
+
+	Son un conjunto de procesos que se implementan para comprender e incidir en los tiempos y el dinero necesarios para un proyecto. Cada control del proyecto se centra en una parte específica del plan del proyecto, 	como el cronograma, los recursos o los riesgos potenciales.(https://asana.com/)
+
+Requerimientos de software:
+
+	Elementos que se necesitan para que se pueda ejecutar el pprograma correctamente.
+
+	Descripción de lo que un programa de software en particular debe hacer.(https://www.northware.mx/blog)
+
+Calidad en el software:
+
+	Propiedades de un software que pueden cumplir las necesidades del usuario de buena manera.
+
+	Capacidad de un software para cumplir con los requisitos del usuario, funcionar de manera eficiente y ser fácil de mantener.(https://www.3digits.es/blog)
+
 -Git:
 
 	Es un programe en el cual pueden varios progrmadores trabajar al mismo tiempo en un mismo codigo
