@@ -1,0 +1,86 @@
+Definiciones Git y Metodologías
+
+Git push:
+	
+	Empuja los documentos seleccionados y los sube a la nube.
+
+	Se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la remota no tiene, y luego subir (push) la diferencia al otro repositorio(https://git-scm.com/)
+
+Git pull:
+
+	Jala los documentos en la nube y los extrae.
+
+	Se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido. (https://www.atlassian.com/)
+
+Git Branch:
+
+	Nos deja crar nuevas ramas.
+
+	Permite crear una rama nueva (https://www.atlassian.com/)
+
+Git checkout:
+
+	Nos permite cambiar entre las ramas que poseemos
+
+	Te permite desplazarte entre las ramas creadas por git branch . Al extraer una rama, se actualizan los archivos en el directorio de trabajo para reflejar la versión 
+	almacenada en esa rama y se indica a Git que registre todas las confirmaciones nuevas en dicha rama. (https://www.atlassian.com/)
+
+Git fork:
+
+	Copia de un repositorio existente en la cuenta del usuario.
+
+	Se encarga de la creación de una copia de un repositorio en la cuenta de usuario.(https://keepcoding.io/)
+
+Git merge:
+
+	Une ramas independientes en una sola rama principal.
+
+	Une dos o más historiales de desarrollo(https://git-scm.com/)
+
+QA:
+
+	Es un termino para asegurar la calidad del producto al cliente.
+
+	Viene de las siglas en inglés Quality Assurance, algo que en español significa algo así como “asegurar la calidad”. Como su propio nombre indica, consiste en 
+	asegurar que el producto final sea de calidad, es decir, que satisfaga las necesidades del cliente y que no tenga ningún error. (https://ce.entel.cl/)
+
+Testing o pruebas: 
+
+	Proceso en el que se ejecuta el programa antes de darlo por terminado y se busca errores para arreglarlos antes de la entrega al cliente.
+
+	Método para verificar si al diseñar un producto digital este cumple con los requisitos esperados y se encuentra libre de errores y brechas. (https://www.iebschool.com/)
+
+Debugging o depuración:
+
+	Proceso de localizar los errores y buscar la razon del porque no funciona.
+
+	Proceso de encontrar y solucionar errores en el código fuente de cualquier software. Con este objetivo, los programadores utilizan herramientas 
+	de depuración para ejecutar el software en un entorno controlado, comprobar el código paso a paso y analizar y solucionar el error. (https://aws.amazon.com/)
+
+Metodologías de proyectos:
+
+	Pasos por los que hay que pasar para finalizar un proyecto de forma satisfactoria y plena. 
+
+	Todos los pasos que se recogen a la hora de la planificación y gestión de un proyecto. Esta suele recoger desde la gestión de recursos hasta la 
+	coordinación del equipo de trabajo, o incluso la relación con todos los interesados en los resultados del proyecto. (https://retos-operaciones-logistica.eae.es/)
+
+Metodología en cascada:
+
+	Metodologia de proyectos donde no se pasa a la siguiente fase hasta que no se termine en la que se encuentra el proyecto, en la actualidad ya no la usa mucha gente.
+
+	Método de gestión de proyectos, en el que el proyecto se divide en distintas fases secuenciales, donde el equipo puede pasar 
+	a la siguiente fase sólo cuando se haya completado la anterior. (https://blog.ganttpro.com/)
+
+Metodologías ágiles:
+
+	Metodologias que se aplican a proyectos de corta duracion, con el fin de una entrega mas rápida.
+
+	Son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto, consiguiendo flexibilidad e inmediatez en la respuesta para amoldar el proyecto 
+	y su desarrollo a las circunstancias específicas del entorno.(https://www.iebschool.com/)
+
+Iteración:
+
+	Repetir algo varias veces para mejorarlo o que sea mejor que antes.
+
+	Proceso coordinado de repetir una serie de pasos o tareas con el objetivo de mejorar un producto, servicio o proyecto a lo largo del tiempo. En este caso, la repetición 
+	de un programa informático para corregir errores y perfeccionar cada uno de sus elementos.(https://www.universitatcarlemany.com/)
