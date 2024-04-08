@@ -1,0 +1,25 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+#include <cmath>
+using namespace std;
+int main() {
+    int n;
+    int s1=n;
+    int inv=0;
+    char char_inv;
+    cin >>n;
+   while(n!=0 ){
+       inv= inv*10 + n % 10;
+       n = n/10;
+       break;
+   }
+    if (n==inv){
+        cout << "yes" <<endl;
+    }
+    else{
+        cout <<"no"<<endl;
+    }
+ 
+    cout << n <<endl;
+     cout << inv <<endl;
+}
